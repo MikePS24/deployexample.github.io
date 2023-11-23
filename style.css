@@ -1,0 +1,22 @@
+/* Autor: Miguel Ángel Piña Salas    
+    Fecha: 06/09/2023 */
+    /*
+    Paleta de colores
+    #022873 "Azul"
+    #03A62C "Verde"
+    #D2D90B "Amraillo"
+    #8C862E "Café?"
+    #F2CB05 "Amarillo 2"
+    */
+
+    body{
+        background-color: aqua;
+        font-family: 'Courier New', Courier, monospace;
+        background-image: url(Proyecto\ VI.jpg);
+        background-size: cover;
+    }
+    center{
+        background-color: azure;
+        width: 50%;
+        margin-left: 25%;
+    }
